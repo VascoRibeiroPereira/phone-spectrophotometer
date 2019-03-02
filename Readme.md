@@ -1,4 +1,4 @@
-# Phone Spectrophotometer - READ ME
+# Phone Spectrophotometer
 ## <U> Overview </U>
 
 This repository includes all elements related with the Phone Spectrophotometer hardware, facilitating its reproduction by anyone.
