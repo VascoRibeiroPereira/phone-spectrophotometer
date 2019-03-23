@@ -43,7 +43,7 @@ Next install the model in the phone with the APP launched and try to get an high
 
 Figure 2. Assembled model and phone with the Shoebox Spectrophotometer launched
 
-Now is up to what you want to test! Try the examples in the booklet of spectroscopy activities for you to get used with the technic and the hardware/software.
+Now is up to what you want to test! Try the examples in the <b>booklet of spectroscopy activities</b> for you to get used with the technic and the hardware/software.
 
 <i>Note: If you use other softwares you’ll need to calculate manually the absorbance based on the Raw Data obtained (light measurement).</i>
 
