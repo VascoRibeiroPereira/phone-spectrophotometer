@@ -13,7 +13,7 @@ Turn on the LED by putting the coin battery CR2032 in the on-position (figure 1)
 
 
 
-
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/Overview.jpg?raw=true)
 
 
 
@@ -37,7 +37,7 @@ Next install the model in the phone with the APP launched and try to get an high
 
 
 
-
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/BOM/BOM_Designators2.jpg?raw=true?raw=true)
 
 
 
