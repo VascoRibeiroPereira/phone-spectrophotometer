@@ -1,21 +1,23 @@
-MIT License
+# Solderpad Hardware Licence Version 2.0
 
-Copyright (c) 2019 VascoRibeiroPereira
+This licence (the “Licence”) operates as a wraparound licence to the Apache License Version 2.0 (the “Apache License”) and grants to You the rights, and imposes the obligations, set out in the Apache License (which can be found here: http://apache.org/licenses/LICENSE-2.0), with the following extensions. It must be read in conjunction with the Apache License. Section 1 below modifies definitions in the Apache License, and section 2 below replaces sections 2 of the Apache License. You may, at your option, choose to treat any Work released under this License as released under the Apache License (thus ignoring all sections written below entirely). Words in italics indicate changes rom the Apache License, but are indicative and not to be taken into account in interpretation.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. The definitions set out in the Apache License are modified as follows:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright any reference to ‘copyright’ (whether capitalised or not) includes ‘Rights’ (as defined below).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Contribution also includes any design, as well as any work of authorship.
+
+Derivative Works shall not include works that remain reversibly separable from, or merely link (or bind by name) or physically connect to or interoperate with the interfaces of the Work and Derivative Works thereof.
+
+Object form shall mean any form resulting from mechanical transformation or translation of a Source form or the application of a Source form to physical material, including but not limited to compiled object code, generated documentation, the instantiation of a hardware design or physical object and conversions to other media types, including intermediate forms such as bytecodes, FPGA bitstreams, moulds, artwork and semiconductor topographies (mask works).
+
+Rights means copyright and any similar right including design right (whether registered or unregistered), semiconductor topography (mask) rights and database rights (but excluding Patents and Trademarks).
+
+Source form shall mean the preferred form for making modifications, including but not limited to source code, net lists, board layouts, CAD files, documentation source, and configuration files.
+
+Work also includes a design or work of authorship, whether in Source form or other Object form.
+
+2. Grant of Licence
+
+2.1 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under the Rights to reproduce, prepare Derivative Works of, make, adapt, repair, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form and do anything in relation to the Work as if the Rights did not exist.
