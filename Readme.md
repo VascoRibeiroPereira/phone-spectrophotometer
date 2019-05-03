@@ -17,6 +17,4 @@ The Phone Spectrophotometer is an open source hardware that comits with a reduce
 ![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/Overview.jpg?raw=true)
 
 
-This work is licensed under a MIT License
-
-Copyright (c) 2019 VascoRibeiroPereira
+This work is licensed under a Solderpad Hardware Licence Version 2.0
