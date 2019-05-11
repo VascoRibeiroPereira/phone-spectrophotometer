@@ -1,5 +1,7 @@
 # Enhancement Issue - Adding a Resistor
 
+Issue Link: https://github.com/VascoRibeiroPereira/phone-spectrophotometer/issues/6
+
 
 Note: this file explains how to add a resistor to the original design. If you want to avoid this procedure you can buy an LED with incorporated resistor like this: https://www.sparkfun.com/products/14560
 
