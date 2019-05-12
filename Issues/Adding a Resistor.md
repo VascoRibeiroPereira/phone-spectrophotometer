@@ -16,11 +16,7 @@ The benefits to it's use are mainly:
 
 
 
-The % of light loss at the beginning of turning on the equipment is ameliorated, as seen in the next graph:
-
-![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/LEDVsResistot.jpg?raw=true)
-
-
+The % of light loss at the beginning of turning on the equipment is ameliorated by adding a resistor.
 To apply this enhancement we need to calculate the resistor value, for that we need the Ohm's Law:
 
 <b>R = V / I</b>
