@@ -13,6 +13,8 @@ Other common use of spectroscopy with the upmost importance is <b> Teaching </b>
 
 The Phone Spectrophotometer is an open source hardware that comits with a reduced cost of production, open source and available for everyone, and uses pre-existing technology - your own mobile phone.
 
+You can also find the .stl files for printing at Thingiverse https://www.thingiverse.com/thing:3185420
+
 
 ![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/Overview.jpg?raw=true)
 
