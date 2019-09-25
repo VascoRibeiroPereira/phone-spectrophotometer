@@ -12,3 +12,6 @@ ___
 The Steady Version solves an issue related to the block position not being fixed into the Phone holder. This way it allows more confidence in calibration curves and further results with reproducibility.
 
 _Important note_: I recommend printing the LED Block - Steady Version horizontally.
+
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/Original%20Design%20Files/IMG_1878.JPG?raw=true)
+
