@@ -25,7 +25,7 @@ If you are going to print it yourself the the recommended settings to 3D print a
 
 Since the 3D printed method is by Fused Deposition Manufacturing the layers are horizontal. This means that the cuvette holder may be fragile at some key parts, and may easily snap. We recommend you to 3D print the cuvette holder horizontally so you have a stronger and much durable part to work with (figure 1).
 
-![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/3Dprint_orientation.PNG?raw=true)
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/Assembly%20instructions/Assembly_assets/3Dprint_orientation.PNG?raw=true)
 <i>Figure 1 - Recommended orientation to 3D print the Cuvette Holder</i>
 
 The recommended material to 3D print is a Traffic Black PLA filament (RAL 9017), from Fillamentum Manufacturing Czech s.r.o. or equivalent. 
@@ -34,7 +34,7 @@ The recommended material to 3D print is a Traffic Black PLA filament (RAL 9017),
 
 This part only requires the addition of the rubber part (i.e. figure 2)
 
-<img src="https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/rubber_part.PNG?raw=true" width="200">
+<img src="https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/Assembly%20instructions/Assembly_assets/rubber_part.PNG?raw=true" width="200">
 
 <i>Figure 2 - Rubber part to be glued to the cuvette holder.</i>
 
@@ -49,11 +49,13 @@ The LED you choose to use depends on the analyte; for instance, you can have sev
 
 To mount the LED you have to identify the LED cathode (-) and anode (+) - figure 3.
 
-<img src="https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/LED_scheme.PNG?raw=true" width="200">
+<img src="https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/Assembly%20instructions/Assembly_assets/LED_scheme.PNG?raw=true" width="200">
+
+<i>Figure 3 - A simple scheme of how to identify the cathode and the anode legs of an LED.</i>
 
 Next, mount the LED as specified in figure 4.
 
-![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/images/LED_mount.PNG?raw=true)
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/Assembly%20instructions/Assembly_assets/LED_mount.PNG?raw=true)
 
 <i>Figure 4 - LED mounted in the printed block, with a CR2032 battery. The anode passes trough the right hole to the outside, touching the battery when it is in the down position and the cathode passes in the first hole to the outside and them to the further left hole to the inside of the model, creating a loop.</i>
 
