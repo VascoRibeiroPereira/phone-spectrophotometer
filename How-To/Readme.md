@@ -13,7 +13,7 @@ Turn on the LED by putting the coin battery CR2032 in the on-position (figure 1)
 
 
 
-![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/BOM/BOM_Designators2.jpg?raw=true?raw=true)
+![alt text](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/BOM/BOM_Assets/BOM_Designators2.jpg?raw=true)
 
 
 
