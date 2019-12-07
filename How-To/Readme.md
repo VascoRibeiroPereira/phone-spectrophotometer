@@ -20,7 +20,7 @@ Turn on the LED by putting the coin battery CR2032 in the on-position (figure 1)
 
 
 
-Figure 1. Coin battery in on-position (left) and off-position (right)
+<i>Figure 1. Coin battery in on-position (left) and off-position (right)</i>
 
 Next install the model in the phone with the APP launched and try to get an high value of light measurement (figure 2).
 
@@ -43,11 +43,11 @@ Next install the model in the phone with the APP launched and try to get an high
 
 
 
-Figure 2. Assembled model and phone with the Shoebox Spectrophotometer launched
+<i>Figure 2. Assembled model and phone with the Shoebox Spectrophotometer launched</i>
 
 Now is up to what you want to test! Try the examples in the <b>booklet of spectroscopy activities</b> for you to get used with the technic and the hardware/software.
 
-<i>Note: If you use other softwares you’ll need to calculate manually the absorbance based on the Raw Data obtained (light measurement).</i>
+<ins>Note: If you use other softwares you’ll need to calculate manually the absorbance based on the Raw Data obtained (light measurement).</ins>
 
 
 
