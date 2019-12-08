@@ -7,7 +7,7 @@ To edit it you'll need to download SketchUp Make from [here](https://www.sketchu
 If you only want the auxiliary design files you can use the stereolithography file format (.stl)
 
 ___
-## Add of the steadyversion!
+## Add of the steady_version!
 
 The Steady Version solves an issue related to the block position not being fixed into the Phone holder. This way it allows more confidence in calibration curves and further results with reproducibility.
 
