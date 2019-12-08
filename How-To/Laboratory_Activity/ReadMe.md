@@ -16,15 +16,21 @@ For the experimental activity we will need access to a spectrophotometer and to 
 
 - Coloured filters with 9mm x 30mm.
 
-*Figure 1 - Fixed wavelength spectrophotometer and filters used*
-![alttext](address)
 
+![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Figure%201.jpg?raw=true)
+*Figure 1 - Fixed wavelength spectrophotometer and filters used*
 
 
 When using LEDs we assume the wavelengths in the table 1.
 
 *Table 1 - Maximum emitted wavelength of coloured LED*
-![alttext](address)
+|LED   |Emitted Wavelengh (max)|
+|------|-----------------------|
+|Red   |625nm                  |
+|Green |525nm                  |
+|Blue  |465nm                  |
+|Orange|610nm                  |
+|Yellow|575nm                  |
 
 ### Procedure
 
@@ -50,26 +56,49 @@ _____
 We used a LED of 525nm (green) and started adding yellow filters. The LUX data are in the table 2.
 
 *Table 2 - Data obtained at 525nm for yellow filters*
-![alttext](address)
+|Number of Filters|Lux  |
+|-----------------|-----|
+|0                |13150|
+|1                |9830 |
+|2                |7580 |
+|3                |5640 |
+|4                |4540 |
+|5                |3630 |
+|6                |2850 |
 
 Next we processed the data in order to understand if we maintain the linearity - if one filter gives us an aberrant reading - out of the expected percentage.
 
 We can check in table 3, that for each new filter added our source loses about 20-25% of intensity. We can say that we must have linearity since the values are in the same order of magnitude.
 
 *Table 3 - % of transmitance for each added filter*
-![alttext](address)
+|Number of Filters|% Transmitance|
+|-----------------|--------------|
+|0                |100           |
+|1                |75            |
+|2                |77            |
+|3                |74            |
+|4                |80            |
+|5                |80            |
+|6                |79            |
+
 
 After the analysis we can observe the transmittance as we add each filter. The table 4 presents the data expressed in the graphs 1 and 2.
 
 
 *Table 4 - % of transmitance and absorbance with increased number of added filter*
-![alttext](address)
+|Number of Filters|% Transmittance|Absorbance|
+|-----------------|---------------|----------|
+|0                |100            |0         |
+|1                |75             |0,13      |
+|2                |58             |0,24      |
+|3                |43             |0,37      |
+|4                |35             |0,46      |
+|5                |28             |0,56      |
+|6                |22             |0,66      |
 
 
-
+![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph1_2.jpg?raw=true)
 *Graph 1 and 2 - Transmitance and absorbance versus number of filters*
-![alttext](address)
-
 
 
 We have here an experimental evidence that the transmittance decreases in a logarithmic fashion and the absorbance remains linear. We will check next what happens in a linearity loss case.
@@ -81,8 +110,15 @@ With the same light source we tested pink coloured filters.
 The data obtained and its processing are condensed in the table 5. We can observe that the percentage of the retained radiation for each filter is very inconsistent.
 
 *Table 5 - Data obtained and processed of the pink filters at 525nm*
-![alttext](address)
-
+|Number of Filters|LUX  |%Transmitance/Filter|%Transmitance|Absorbance|
+|-----------------|-----|--------------------|-------------|----------|
+|0                |12500|100                 |100          |0         |
+|1                |368  |2,9                 |2,9          |1,5       |
+|2                |33   |9                   |0,3          |2,6       |
+|3                |14   |42,4                |0,1          |3         |
+|4                |10   |71,4                |0,1          |3,1       |
+|5                |6    |60                  |0            |3,3       |
+|6                |6    |100                 |0            |3,3       |
 
 By this analysis we notice that the absorbance is not linear with the number of filters added but more like logarithmic.
 
@@ -90,8 +126,8 @@ One indicator of a good linear regression is a R<sup>2</sup> close to, or higher
 
 Note that in visible spectroscopy the usual values of absorbance are less than 1 AU, to minimize the effects of light dispersion and loss of linearity.
 
+![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph3_4.jpg?raw=true)
 *Graph 3 and 4 - Transmitance and absorbance of pink filters at 525nm*
-![alttext](address)
 
 _____
 
@@ -108,9 +144,8 @@ _____
 	We used the literature available online to check the best wavelength to analyse the blue pills.
 	To analyse the Indigo Carmine present in the blue pills we choosed the 625nm LED (red), that is close enough to the molecule maximum of 610nm.
 
-*Figure 2 - Absorbance spectra of Indigo Carmine
-Bentouami, Abdelhadi & Said Ouali, Mohand & de menorval, Louis-Charles. (2015). 1-s2.0-S1010603010000894-main.*
-![alttext](address)
+![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Figure%202.jpg?raw=true)
+*Figure 2 - Absorbance spectra of Indigo Carmine; Bentouami, Abdelhadi & Said Ouali, Mohand & de menorval, Louis-Charles. (2015). 1-s2.0-S1010603010000894-main.*
 
 > To proceed with the assay, is it only needed to obtain the pills absorbance?
 
@@ -145,8 +180,15 @@ From developing the linear regression equation obtained to the sample absorbance
 This work can also be applied to drinks, candies, and everything that have colour.
 
 *Table 6 - Absorbances measured for 102,0mg of standard and sample*
-![alttext](address)
+|Concentration mg/mL|Absorbance|
+|-------------------|----------|
+|0                  |0         |
+|0,1275             |0,08      |
+|0,255              |0,139     |
+|0,51               |0,268     |
+|1,02               |0,444     |
+|1,53               |0,637     |
+|Sample             |0,211     |
 
+![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph5.jpg?raw=true)
 *Graph 5 - Calibration Curve*
-![alttext](address)
-
