@@ -102,6 +102,7 @@ After the analysis we can observe the transmittance as we add each filter. The t
 
 
 ![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph1_2.jpg?raw=true)
+
 *Graph 1 and 2 - Transmitance and absorbance versus number of filters*
 
 
@@ -132,6 +133,7 @@ One indicator of a good linear regression is a R<sup>2</sup> close to, or higher
 Note that in visible spectroscopy the usual values of absorbance are less than 1 AU, to minimize the effects of light dispersion and loss of linearity.
 
 ![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph3_4.jpg?raw=true)
+
 *Graph 3 and 4 - Transmitance and absorbance of pink filters at 525nm*
 
 _____
@@ -150,6 +152,7 @@ _____
 	To analyse the Indigo Carmine present in the blue pills we choosed the 625nm LED (red), that is close enough to the molecule maximum of 610nm.
 
 ![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Figure%202.jpg?raw=true)
+
 *Figure 2 - Absorbance spectra of Indigo Carmine; Bentouami, Abdelhadi & Said Ouali, Mohand & de menorval, Louis-Charles. (2015). 1-s2.0-S1010603010000894-main.*
 
 > To proceed with the assay, is it only needed to obtain the pills absorbance?
@@ -197,4 +200,5 @@ This work can also be applied to drinks, candies, and everything that have colou
 |Sample             |0,211     |
 
 ![alttext](https://github.com/VascoRibeiroPereira/phone-spectrophotometer/blob/master/How-To/Laboratory_Activity/Activity_assets/Graph5.jpg?raw=true)
+
 *Graph 5 - Calibration Curve*
