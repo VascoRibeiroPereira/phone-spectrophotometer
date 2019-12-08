@@ -24,6 +24,7 @@ For the experimental activity we will need access to a spectrophotometer and to 
 When using LEDs we assume the wavelengths in the table 1.
 
 *Table 1 - Maximum emitted wavelength of coloured LED*
+
 |LED   |Emitted Wavelengh (max)|
 |------|-----------------------|
 |Red   |625nm                  |
@@ -56,6 +57,7 @@ _____
 We used a LED of 525nm (green) and started adding yellow filters. The LUX data are in the table 2.
 
 *Table 2 - Data obtained at 525nm for yellow filters*
+
 |Number of Filters|Lux  |
 |-----------------|-----|
 |0                |13150|
@@ -71,6 +73,7 @@ Next we processed the data in order to understand if we maintain the linearity -
 We can check in table 3, that for each new filter added our source loses about 20-25% of intensity. We can say that we must have linearity since the values are in the same order of magnitude.
 
 *Table 3 - % of transmitance for each added filter*
+
 |Number of Filters|% Transmitance|
 |-----------------|--------------|
 |0                |100           |
@@ -86,6 +89,7 @@ After the analysis we can observe the transmittance as we add each filter. The t
 
 
 *Table 4 - % of transmitance and absorbance with increased number of added filter*
+
 |Number of Filters|% Transmittance|Absorbance|
 |-----------------|---------------|----------|
 |0                |100            |0         |
@@ -110,6 +114,7 @@ With the same light source we tested pink coloured filters.
 The data obtained and its processing are condensed in the table 5. We can observe that the percentage of the retained radiation for each filter is very inconsistent.
 
 *Table 5 - Data obtained and processed of the pink filters at 525nm*
+
 |Number of Filters|LUX  |%Transmitance/Filter|%Transmitance|Absorbance|
 |-----------------|-----|--------------------|-------------|----------|
 |0                |12500|100                 |100          |0         |
@@ -180,6 +185,7 @@ From developing the linear regression equation obtained to the sample absorbance
 This work can also be applied to drinks, candies, and everything that have colour.
 
 *Table 6 - Absorbances measured for 102,0mg of standard and sample*
+
 |Concentration mg/mL|Absorbance|
 |-------------------|----------|
 |0                  |0         |
