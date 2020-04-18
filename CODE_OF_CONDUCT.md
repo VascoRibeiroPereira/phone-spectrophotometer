@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
++ [Version Française](#code-de-conduite)
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
@@ -74,3 +76,52 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+## Code de conduite
+
+### Notre engagement
+
+Dans le but de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que contributrice et contributeurs et responsables, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour toutes et tous, quels que soient l'âge, la taille, le handicap, l'origine ethnique, les caractéristiques sexuelles, l'identité et l'expression du genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la couleur de peau, la religion ou l'identité et l'orientation sexuelles.
+
+### Nos termes
+
+Voici quelques exemples de comportements qui contribuent à créer un environnement positif :
+
+* Utiliser un langage accueillant et inclusif
+* Respecter les différents points de vue et expériences
+* Accepter avec grâce les critiques constructives
+* Se concentrer sur ce qui est le mieux pour la communauté
+* Faire preuve d'empathie envers les autres membres de la communauté
+
+Voici quelques exemples de comportements inacceptables de la part des participant⋅e⋅s :
+
+* L'utilisation d'un langage ou d'images à connotation sexuelle et d'une attention ou d'avances sexuelles non souhaitées
+* Trollage, commentaires insultants ou dérogatoires et attaques personnelles ou politiques
+* Harcèlement public ou privé
+* La publication d'informations privées d'autrui, telles qu'une adresse physique ou électronique, sans autorisation explicite
+* Autres comportements qui pourraient raisonnablement être considérés comme inappropriés dans un cadre professionnel
+
+### Nos responsabilités
+
+Les responsables de projet sont chargé⋅e⋅s de clarifier les normes de comportement acceptable et sont censés prendre des mesures correctives appropriées et équitables en réponse à tout cas de comportement inacceptable.
+
+Les responsables de projet ont le droit et la responsabilité de supprimer, d'éditer ou de rejeter les commentaires, les engagements, le code, les éditions wiki, les issues et autres contributions qui ne sont pas conformes au présent code de conduite, ou d'interdire temporairement ou définitivement tout contributeur pour d'autres comportements qu'ils jugent inappropriés, menaçants, offensants ou nuisibles.
+
+### Champ d'application
+
+Ce code de conduite s'applique à la fois dans les espaces de projet et dans les espaces publics lorsqu'un individu représente le projet ou sa communauté. Les exemples de représentation d'un projet ou d'une communauté incluent l'utilisation d'une adresse électronique officielle du projet, la publication via un compte officiel de médias sociaux ou la désignation d'un représentant lors d'un événement en ligne ou hors ligne. La représentation d'un projet peut être définie et précisée par les responsables du projet.
+
+
+### Mise en œuvre
+
+Les cas de comportement abusif, de harcèlement ou de tout autre comportement inacceptable peuvent être signalés en contactant l'équipe du projet à l'adresse vascoribeiro.sintra@gmail.com. Toutes les plaintes seront examinées et étudiées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe de projet est tenue de maintenir la confidentialité à l'égard de la personne qui rapporte d'un incident. De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.
+
+Les responsables de projet qui ne suivent pas ou n'appliquent pas de bonne foi le code de conduite peuvent être confronté⋅e⋅s à des répercussions temporaires ou permanentes, selon ce que déterminent les autres membres de la direction du projet.
+
+### Attribution
+
+Ce code de conduite est adapté de la Convention des contributrice et contributeurs, version 1.4, disponible à l'adresse suivante : https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+Pour des réponses aux questions courantes sur ce code de conduite, voir https://www.contributor-covenant.org/faq
+
+
