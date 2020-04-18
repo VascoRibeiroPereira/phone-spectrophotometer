@@ -1,6 +1,6 @@
 # Phone Spectrophotometer
 
-+ [Version française](#spectrophotometre_pour_telephone)
++ [Version française](#spectrophotometre-pour-telephone)
 
 ## <U> Overview </U>
 
