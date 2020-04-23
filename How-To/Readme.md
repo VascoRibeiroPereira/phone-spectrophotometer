@@ -1,5 +1,5 @@
 
-+ [Version française](#comment-travailler-avec-le spectrophotometre-sur-ordiphone)
++ [Version française](#comment-travailler-avec-le-spectrophotometre-sur-ordiphone)
 
 ## How to Work With the Phone Spectrophotometer
 
@@ -54,7 +54,7 @@ IR Light Diodes - 950nm
 
 UV Light Diodes - 400nm
 
-## Comment travailler avec le spectrophotometre sur ordihone
+## Comment travailler avec le spectrophotometre sur ordiphone
 
 Le spectrophotomètre avec odiphone est assez facile à utiliser. Vous trouverez ici une documentation montrant comment l'utiliser, quelques conseils et dépannages ainsi que des suggestions d'activités.
 
